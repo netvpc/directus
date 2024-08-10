@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1.4
+# syntax=docker/dockerfile:1.9
 
 FROM node:lts-bookworm AS builder
 
